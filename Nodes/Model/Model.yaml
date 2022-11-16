@@ -1,0 +1,9 @@
+Name: Model
+Type: FolderType
+Children:
+- File: VarList1/VarList1.yaml
+- Name: Toggle_Value_EU
+  Id: g=ac3ac666db349c6967ddeb76a680767c
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: true
